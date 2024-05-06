@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VicGriffin
+- 👋 Hi, I’m VicGriffin,
 - 👀 I’m interested in pro coding
-- 🌱 I’m currently mastering python and web development
+- 🌱 I’m a web developer and a data scientist 
 - 💞️ I’m looking to collaborate on definitive projects
-- 📫 How to reach me @ vickamworkpro@gmail.com
+- 📫 How to reach me email @vickamworkpro@gmail.com
 -
 
 <!---
