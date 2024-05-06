@@ -2,7 +2,7 @@
 - 👀 I’m interested in pro coding
 - 🌱 I’m a web developer and a data scientist 
 - 💞️ I’m looking to collaborate on definitive projects
-- 📫 How to reach me email @vickamworkpro@gmail.com
+- 📫 How to reach me,,, email @vickamworkpro@gmail.com
 -
 
 <!---
