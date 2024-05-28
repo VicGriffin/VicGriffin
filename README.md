@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm victor griffin</h1>
-<h3 align="center">A passionate frontend developer from kenya</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicgriffin" alt="vicgriffin" /></a> </p>
+<h3 align="center">A passionate fullstack developer from kenya</h3>
 
 - 🔭 I’m currently working on **full stack development**
 
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicgriffin&show_icons=true&locale=en&layout=compact" alt="vicgriffin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicgriffin&show_icons=true&locale=en" alt="vicgriffin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicgriffin&" alt="vicgriffin" /></p>
