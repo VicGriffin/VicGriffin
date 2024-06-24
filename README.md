@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full stack development**
 
-- 🌱 I’m currently learning **javascript, nodejs, reactjs, expressjs**
+- 🌱 I’m currently learning **javascript, node js, react js, express js**
 
 - 👯 I’m looking to collaborate on **more exciting web development projects**
 
