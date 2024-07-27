@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm victor griffin</h1>
+<h1 align="center">Hi 👋, I'm Victor Griffin</h1>
 <h3 align="center">A fullstack developer from kenya</h3>
 
 - 🔭 I’m currently working on **full stack development**
