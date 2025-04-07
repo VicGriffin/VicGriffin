@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor Griffin</h1>
 <h3 align="center">A fullstack developer from kenya</h3>
 
-- 🔭 I’m currently working on **full stack development**
+- 🔭 I’m a **full stack developer**
 
-- 🌱 I’m currently learning **javascript, node js, react js, express js**
+- 🌱 I’m currently levelling **javascript, node js, react js, express js , next js**
 
-- 👯 I’m looking to collaborate on **more exciting web development projects**
+- 👯 I’m looking to collaborate on **more exciting projects**
 
 - 📫 How to reach me **vickamworkpro@gmail.com**
 
