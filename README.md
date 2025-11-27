@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **more exciting projects**
 
-- 📫 How to reach me **vickamworkpro@gmail.com**
+- 📫 How to reach me **vickamau20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
