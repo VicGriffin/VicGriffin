@@ -21,7 +21,7 @@
 - Express.js
 
 **Database**
-- MongoDB
+- supabase
 - MySQL
 
 **Tools & Platforms**
