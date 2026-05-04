@@ -14,6 +14,7 @@
 **Frontend**
 - React.js
 - Next.js
+- javascript
 - HTML5, CSS3
 
 **Backend**
