@@ -85,9 +85,6 @@ Familiar with version control, API testing, automated testing, frontend deployme
 
 ## Currently Learning and Improving
 
-- Advanced React and Next.js architecture.
-- Python backend development with FastAPI.
-- PostgreSQL data modeling and query optimization.
 - AI agent orchestration and workflow automation.
 - Secure, scalable application architecture.
 - Cloud deployment and production engineering practices.
